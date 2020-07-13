@@ -1,0 +1,86 @@
+{
+    "combos": [
+        {
+            "creationDateTime": "2019-02-05T12:15:49.613",
+            "enabled": true,
+            "group": "{4c993fd9-359d-4c2a-9925-c74ffe0f5f97}",
+            "keyword": "//registration",
+            "modificationDateTime": "2020-07-13T13:15:56.900",
+            "name": "registration",
+            "snippet": "Hi,\n\nAccording to our view of the campus database you are not currently registered as a student and I cannot access your full details in my view of the database in order to create your account.\nI would recommend you contact the Registrars/Part Time/Finance office and clarify if there is a delay, or if there is something outstanding that they require from you.\n\nAccording to our records there is an outstanding issue with your account such that the Finance/Registrars/Part Time Office has requested it to be put on hold. You will need to contact the Registrars/Part Time office to resolve this and they will then be in a position to remove the hold. Your login credentials will then become active again automatically. \n\nPart time students should contact the Part Time Office:\n\nhttp://www.it-tallaght.ie/part-time-services\n\n\n\nFulltime students should contact the Finance Department:\n\n+353 1 4042061 or fulltimefees@it-tallaght.ie\n\n\nIf you still have difficulty following that, please contact us again if you require a password reset etc.\n\nKind regards,\n\nGraham Smith\n\n",
+            "useHtml": false,
+            "useLooseMatch": false,
+            "uuid": "{ddbee79e-f8bb-4050-abbe-536158710b39}"
+        },
+        {
+            "creationDateTime": "2019-02-05T12:26:12.633",
+            "enabled": true,
+            "group": "{4c993fd9-359d-4c2a-9925-c74ffe0f5f97}",
+            "keyword": "//passwd",
+            "modificationDateTime": "2020-07-13T13:19:49.042",
+            "name": "passwd format",
+            "snippet": "Just to clarify the credentials:\n\nYour username is your student number as printed on your student card and your password is your date of birth in the format:\n\nddMmmyy   \n\nfor example:  01Jan70\n\nThe password is case sensitive.\n\nPlease allow at least 15 minutes for the password change to synchronise to all services. ",
+            "useHtml": false,
+            "useLooseMatch": false,
+            "uuid": "{cc8821b9-760a-4e6e-a0a9-636d322aec58}"
+        },
+        {
+            "creationDateTime": "2019-02-05T12:27:12.906",
+            "enabled": true,
+            "group": "{4c993fd9-359d-4c2a-9925-c74ffe0f5f97}",
+            "keyword": "//nonum",
+            "modificationDateTime": "2020-07-13T13:15:56.900",
+            "name": "nonum",
+            "snippet": "Hi,\n\nCould you get back to us please with your student number as printed on your student card. This is needed to look up your details in our database. ",
+            "useHtml": false,
+            "useLooseMatch": false,
+            "uuid": "{3d97dfa3-f41c-4556-918d-262acda6a0b7}"
+        },
+        {
+            "creationDateTime": "2019-02-27T12:49:50.869",
+            "enabled": true,
+            "group": "{4c993fd9-359d-4c2a-9925-c74ffe0f5f97}",
+            "keyword": "//myself",
+            "modificationDateTime": "2020-07-13T13:15:56.900",
+            "name": "myself",
+            "snippet": "\n\n__________________________________________________\nGraham Smith\nTechnical Officer (Sysadmin)\nDepartment of Computing\nTechnological University Dublin\nTallaght Campus\n__________________________________________________\ntudublin.ie\nOT Baile Átha Cliath - Campas Thamlachta D24 FKT9, Éire\n\nTU Dublin - Tallaght Campus D24 FKT9, Ireland\n",
+            "useHtml": false,
+            "useLooseMatch": false,
+            "uuid": "{25be910b-5da4-4cbe-bede-2f6382b2fd25}"
+        },
+        {
+            "creationDateTime": "2019-02-27T12:52:13.799",
+            "enabled": true,
+            "group": "{4c993fd9-359d-4c2a-9925-c74ffe0f5f97}",
+            "keyword": "//academic",
+            "modificationDateTime": "2020-07-13T13:15:56.900",
+            "name": "academic",
+            "snippet": "Hi,\n\nUnfortunately we cannot assist with academic/registration/financial queries, this e-mail address is solely for the purposes of technical support. \n\nI would recommend contacting the Registrars or Part time office or School office who may be able to assist you further. \n\nKind regards,\n\n",
+            "useHtml": false,
+            "useLooseMatch": false,
+            "uuid": "{b4bdfd12-005c-459d-babc-d6a05daeff43}"
+        },
+        {
+            "creationDateTime": "2019-03-04T14:35:35.927",
+            "enabled": true,
+            "group": "{4c993fd9-359d-4c2a-9925-c74ffe0f5f97}",
+            "keyword": "//enroll",
+            "modificationDateTime": "2020-07-13T13:15:56.900",
+            "name": "enrollment",
+            "snippet": "Hi,\n\nEnrollment keys are set by lecturers, we would not have access to these. You should contact the relevant lecturers for these per module and failing that if there's an issue still, you may need to contact the Centre for Learning and Teaching who manage Moodle services:\n\n\ncelt@it-tallaght.ie\n\n\nKind regards,\n\n\n\nGraham\n\nGraham Smith\nTechnical Officer (Sysadmin)\nDepartment of Computing\nTechnological University Dublin\nTallaght Campus\n__________________________________________________\ntudublin.ie\nOT Baile Átha Cliath - Campas Thamlachta D24 FKT9, Éire\n\nTU Dublin - Tallaght Campus D24 FKT9, Ireland\n",
+            "useHtml": false,
+            "useLooseMatch": false,
+            "uuid": "{81a4d81e-82eb-4933-bd69-9c2131c736c4}"
+        }
+    ],
+    "fileFormatVersion": 7,
+    "groups": [
+        {
+            "creationDateTime": "2020-07-13T13:15:56.900",
+            "description": "The default group.",
+            "modificationDateTime": "2020-07-13T13:20:52.873",
+            "name": "work",
+            "uuid": "{4c993fd9-359d-4c2a-9925-c74ffe0f5f97}"
+        }
+    ]
+}
