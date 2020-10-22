@@ -1,0 +1,194 @@
+{
+    "combos": [
+        {
+            "creationDateTime": "2019-02-05T12:15:49.613",
+            "enabled": true,
+            "group": "{4c993fd9-359d-4c2a-9925-c74ffe0f5f97}",
+            "keyword": "//reg",
+            "modificationDateTime": "2020-10-22T11:58:47.967",
+            "name": "registration-or-fees",
+            "snippet": "Hi,\n\nAccording to our view of the campus database you are not currently registered as a student and I cannot access your full details in my view of the database in order to create your account.\nI would recommend you contact the Registrars/Part Time/Finance office and clarify if there is a delay, or if there is something outstanding that they require from you.\n\nAccording to our records there is an outstanding issue with your account such that the Finance/Registrars/Part Time Office has requested it to be put on hold. You will need to contact the Registrars/Part Time office to resolve this and they will then be in a position to remove the hold. Your login credentials will then become active again automatically (please allow 1 hour for this to take effect)\n\nPart time students should contact the Part Time Office:\n\n  http://www.it-tallaght.ie/part-time-services\n\n  LifeLongLearning.Tallaght@tudublin.ie \n\n\nFulltime students should contact the Finance Department for issues regarding fees:\n\n  Fees.Tallaght@tudublin.ie\n\nOr for other general registration issues:\n\n  Registration.Tallaght@tudublin.ie\n\n\nIf you still have difficulty following that, please contact us again if you require a password reset or other technical assistance.\n\n",
+            "useHtml": false,
+            "useLooseMatch": false,
+            "uuid": "{349b3759-bf92-4849-a8f6-ab403abff56a}"
+        },
+        {
+            "creationDateTime": "2019-02-05T12:27:12.906",
+            "enabled": true,
+            "group": "{4c993fd9-359d-4c2a-9925-c74ffe0f5f97}",
+            "keyword": "//nonum",
+            "modificationDateTime": "2020-10-07T10:37:08.869",
+            "name": "no-student-number",
+            "snippet": "Hi,\n\nCould you get back to us please with your student number as printed on your student card (or communications following registration). This is needed to look up your details in our database. ",
+            "useHtml": false,
+            "useLooseMatch": false,
+            "uuid": "{685ff9bd-6de4-4bfc-8bf2-e987c65b742e}"
+        },
+        {
+            "creationDateTime": "2019-02-27T12:49:50.869",
+            "enabled": true,
+            "group": "{4c993fd9-359d-4c2a-9925-c74ffe0f5f97}",
+            "keyword": "//my",
+            "modificationDateTime": "2020-10-07T10:37:08.869",
+            "name": "my-signature",
+            "snippet": "Kind regards,\n\nGraham\n\n__________________________________________________\nGraham Smith\nTechnical Officer (Sysadmin)\nDepartment of Computing\nTechnological University Dublin\nTallaght Campus\n__________________________________________________\ntudublin.ie\nOT Baile Átha Cliath - Campas Thamlachta D24 FKT9, Éire\n\nTU Dublin - Tallaght Campus D24 FKT9, Ireland\n",
+            "useHtml": false,
+            "useLooseMatch": false,
+            "uuid": "{e7b2e0cf-aaf4-45fa-832c-515d1bd40c92}"
+        },
+        {
+            "creationDateTime": "2019-03-04T14:35:35.927",
+            "enabled": true,
+            "group": "{4c993fd9-359d-4c2a-9925-c74ffe0f5f97}",
+            "keyword": "//enroll",
+            "modificationDateTime": "2020-10-07T10:37:08.869",
+            "name": "enrollment",
+            "snippet": "Hi,\n\nEnrollment keys are set by lecturers, we would not have access to these. You should contact the relevant lecturers for these per module and failing that if there's an issue still, you may need to contact the Centre for Learning and Teaching who manage Moodle services:\n\nCeLT.Tallaght@tudublin.ie\n\nKind regards,\n\nGraham\n\nGraham Smith\nTechnical Officer (Sysadmin)\nDepartment of Computing\nTechnological University Dublin\nTallaght Campus\n__________________________________________________\ntudublin.ie\nOT Baile Átha Cliath - Campas Thamlachta D24 FKT9, Éire\n\nTU Dublin - Tallaght Campus D24 FKT9, Ireland\n",
+            "useHtml": false,
+            "useLooseMatch": false,
+            "uuid": "{3933a28e-0e92-402c-bacc-8db957e0f920}"
+        },
+        {
+            "creationDateTime": "2020-09-28T12:06:03.491",
+            "enabled": true,
+            "group": "{4c993fd9-359d-4c2a-9925-c74ffe0f5f97}",
+            "keyword": "//pw",
+            "modificationDateTime": "2020-10-22T11:59:11.624",
+            "name": "password-set-or-reset",
+            "snippet": "Your initial password is your date of birth in the format DDMonYY (eg: 01Jan90)  - note the month is case sensitive.\n\nFor security this initial password must be changed with the following process:\n\n1. Go to: https://connect365.ittdublin.ie/\n\nIn this page please enter computing\\<xnumber> in the \"Domain\\username\" box (the symbol <xnumber> represents your student number). \nEnter your password as per the above date of birth format\nThen click on the \"Sign in\" button.\n\n2. You will see red text saying your password has expired - click on the text marked \"here\" in blue to change it.\nEnter your existing password (date of birth) and a new one twice. The new password should \nbe least 8 characters in length and include one uppercase value, one numeric value. Furthermore it can’t include either your name or the word Dublin. \n\n3. Following this, it is recommended to register for the Self Service Password Reset Service.\nNavigate to this link and click the \"Register\" button:\nhttps://www.tudublin.ie/password/\n\nYour username is your student number followed by @mytudublin.ie  (example x12345678@mytudublin.ie )\n\nThere are some further links and a useful infographic here:\nhttps://www.tudublin.ie/for-students/student-login/tallaght/\n\n\nIf you still have problems, please get back to us.\n",
+            "useHtml": false,
+            "useLooseMatch": false,
+            "uuid": "{124d2b6a-600a-4c57-9e21-cda736687b16}"
+        },
+        {
+            "creationDateTime": "2020-09-29T10:11:02.177",
+            "enabled": true,
+            "group": "{4c993fd9-359d-4c2a-9925-c74ffe0f5f97}",
+            "keyword": "//pin",
+            "modificationDateTime": "2020-10-07T10:37:08.869",
+            "name": "pin",
+            "snippet": "\nFor issues with PIN and course registration for course please follow the following guides and support e-mail addresses:\n\nFor Full-Time Students:\nhttps://www.it-tallaght.ie/online-registration-2020\nRegistration.Tallaght@tudublin.ie\n\nFor Part-Time Students:\nhttps://www.it-tallaght.ie/part-time-students-online-registration-for-services\nLifelonglearning.Tallaght@TUDublin.ie\n\n",
+            "useHtml": false,
+            "useLooseMatch": false,
+            "uuid": "{351644b3-740d-4bfb-93e1-79bb17e1fb6d}"
+        },
+        {
+            "creationDateTime": "2020-09-29T14:01:32.241",
+            "enabled": true,
+            "group": "{4c993fd9-359d-4c2a-9925-c74ffe0f5f97}",
+            "keyword": "//newstf",
+            "modificationDateTime": "2020-10-07T10:37:08.869",
+            "name": "stf induction",
+            "snippet": "IT Services - Look after Central shared IT resources for all departments such as e-mail and internet access. They also look after staff and School of Business student labs and accounts.\nThey can be contacted to:\n\nitsupport.tallaght@tudublin.ie\n\nThe School of Science & Computing Administrative office has the following e-mail:\n\nscienceadmin.tallaght@tudublin.ie\n\nTechnical Support for Computing Department specific Lab resources for both staff and computing is contactable by:\n\ndeptcomplabs.tallaght@tudublin.ie\n\n\n",
+            "useHtml": false,
+            "useLooseMatch": false,
+            "uuid": "{0534bfd6-3bec-43c8-a499-720a77225b59}"
+        },
+        {
+            "creationDateTime": "2019-02-27T12:52:13.799",
+            "enabled": true,
+            "group": "{4c993fd9-359d-4c2a-9925-c74ffe0f5f97}",
+            "keyword": "//aca",
+            "modificationDateTime": "2020-10-07T10:37:08.869",
+            "name": "academic-admin",
+            "snippet": "Hi,\n\nUnfortunately we cannot assist with academic/registration/financial queries, this e-mail address is solely for the purposes of technical support. \n\nI would recommend contacting the Registrars or Part time office or relevant School office who may be able to assist you further. \n\nSchool of Science and Computing Administrative Office can be reached with this e-mail address:\n\n scienceadmin.tallaght@tudublin.ie\n\n\nPart time students should contact the Part Time Office:\n\n  http://www.it-tallaght.ie/part-time-services\n\n  LifeLongLearning.Tallaght@tudublin.ie \n\n\nFulltime students should contact the Finance Department for issues regarding fees:\n\n  Fees.Tallaght@tudublin.ie\n\nOr for other general registration issues:\n\n  Registration.Tallaght@tudublin.ie\n\n\n",
+            "useHtml": false,
+            "useLooseMatch": false,
+            "uuid": "{937f8aee-7d77-4f15-b3c3-848db1be7900}"
+        },
+        {
+            "creationDateTime": "2020-10-06T10:10:39.656",
+            "enabled": true,
+            "group": "{4c993fd9-359d-4c2a-9925-c74ffe0f5f97}",
+            "keyword": "//celt",
+            "modificationDateTime": "2020-10-07T10:37:08.869",
+            "name": "celt",
+            "snippet": "Centre for Learning and Teaching:\n\ncelt.tallaght@tudublin.ie",
+            "useHtml": false,
+            "useLooseMatch": false,
+            "uuid": "{54d235d8-fbe9-421f-a051-241bd84e6b42}"
+        },
+        {
+            "creationDateTime": "2020-10-06T13:08:39.853",
+            "enabled": true,
+            "group": "{4c993fd9-359d-4c2a-9925-c74ffe0f5f97}",
+            "keyword": "//tt",
+            "modificationDateTime": "2020-10-07T10:37:08.869",
+            "name": "timetables",
+            "snippet": "https://www.it-tallaght.ie/classtimetables",
+            "useHtml": false,
+            "useLooseMatch": false,
+            "uuid": "{5c3f7dcc-f40e-4b47-929f-8bfbdc649872}"
+        },
+        {
+            "creationDateTime": "2020-10-06T18:12:11.537",
+            "enabled": true,
+            "group": "{4c993fd9-359d-4c2a-9925-c74ffe0f5f97}",
+            "keyword": "//sci",
+            "modificationDateTime": "2020-10-07T10:37:08.869",
+            "name": "Science School Office",
+            "snippet": "School of Science and Computing Administrative Office can be reached with this e-mail address:\n\n scienceadmin.tallaght@tudublin.ie",
+            "useHtml": false,
+            "useLooseMatch": false,
+            "uuid": "{d4f3cef7-0b6b-4198-bc14-23ed436363e9}"
+        },
+        {
+            "creationDateTime": "2020-10-06T18:14:36.994",
+            "enabled": true,
+            "group": "{4c993fd9-359d-4c2a-9925-c74ffe0f5f97}",
+            "keyword": "//itsci",
+            "modificationDateTime": "2020-10-07T10:37:08.869",
+            "name": "Science IT Support",
+            "snippet": "ScienceITSupport.Tallaght@tudublin.ie",
+            "useHtml": false,
+            "useLooseMatch": false,
+            "uuid": "{ad674476-5df1-4ad9-b7e6-ecafd2961560}"
+        },
+        {
+            "creationDateTime": "2020-10-06T18:16:04.525",
+            "enabled": true,
+            "group": "{4c993fd9-359d-4c2a-9925-c74ffe0f5f97}",
+            "keyword": "//stu",
+            "modificationDateTime": "2020-10-07T10:37:08.869",
+            "name": "Business & Staff IT Support",
+            "snippet": "ITSupport.Tallaght@tudublin.ie",
+            "useHtml": false,
+            "useLooseMatch": false,
+            "uuid": "{832dc89d-6369-4071-8d60-c714ce95e7b1}"
+        },
+        {
+            "creationDateTime": "2020-10-07T15:51:54.111",
+            "enabled": true,
+            "group": "{4c993fd9-359d-4c2a-9925-c74ffe0f5f97}",
+            "keyword": "//ll",
+            "modificationDateTime": "2020-10-07T15:52:10.799",
+            "name": "laptop loan scheme",
+            "snippet": "https://www.tudublin.ie/explore/whats-happening/news/2020/applications-open-for-laptop-loan-scheme.html",
+            "useHtml": false,
+            "useLooseMatch": false,
+            "uuid": "{ab48d4c6-6f70-4e06-8707-3682701e71c3}"
+        },
+        {
+            "creationDateTime": "2020-10-13T14:08:30.253",
+            "enabled": true,
+            "group": "{4c993fd9-359d-4c2a-9925-c74ffe0f5f97}",
+            "keyword": "//eng",
+            "modificationDateTime": "2020-10-13T14:08:41.948",
+            "name": "engineering support",
+            "snippet": "electechsupport.tallaght@tudublin.ie",
+            "useHtml": false,
+            "useLooseMatch": false,
+            "uuid": "{fdd7505f-5f99-493c-80b1-b1a1258893fe}"
+        }
+    ],
+    "fileFormatVersion": 7,
+    "groups": [
+        {
+            "creationDateTime": "2020-07-13T13:15:56.900",
+            "description": "The default group.",
+            "modificationDateTime": "2020-09-29T14:08:42.787",
+            "name": "support",
+            "uuid": "{4c993fd9-359d-4c2a-9925-c74ffe0f5f97}"
+        }
+    ]
+}
